@@ -4,7 +4,7 @@
 
 ### Patch Changes
 
-- 4912563: Internal restructuing to better support cli UI updates from other Hardhat plugins
+- 4912563: Internal restructuring to better support cli UI updates from other Hardhat plugins
 - e038de7: Added an option to set the derivation path (thanks @area!).
 
 ## 1.0.2
